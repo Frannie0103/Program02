@@ -20,6 +20,8 @@ int型の配列aを 初期値｛2,5,3,8,9,7,6,1,4,10}で宣言し、全要素の
 
 実行結果
 
+![image](https://github.com/Frannie0103/Program02/blob/main/1.png)
+
 考察
 
 For文とif文を使い、全要素の長さまで要素の合計を計算する。
@@ -33,6 +35,8 @@ For文とif文を使い、全要素の長さまで要素の合計を計算する
 3次元ベクトルを格納するためのdouble型の配列を　new 演算子を用いて宣言し、各要素に{3,4,5}の値をそれぞれ 代入し、そのベクトルの大きさを求めなさい。
 
 実行結果
+
+![image](https://github.com/Frannie0103/Program02/blob/main/2.png)
 
 考察
 
@@ -50,6 +54,10 @@ For文とif文を使い、全要素の長さまで要素の合計を計算する
 
 実行結果
 
+![image](https://github.com/Frannie0103/Program02/blob/main/3-1.png)
+
+![image](https://github.com/Frannie0103/Program02/blob/main/3-2.png)
+
 考察
 
 このプログラムはπを求めることでき、数学に対してよい役割がある。乱数の数を増やしてπの値がMath クラスの中のπの値にもっと接近する。
@@ -63,6 +71,8 @@ For文とif文を使い、全要素の長さまで要素の合計を計算する
 ループを使って、整数1〜10までの和と二乗和を求めなさい。
 
 実行結果
+
+![image](https://github.com/Frannie0103/Program02/blob/main/4.png)
 
 考察
 
